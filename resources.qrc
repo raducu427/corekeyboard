@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/ro_RO.keymap</file>
+        <file>resources/ro_RO_mobile.keymap</file>
+        <file>resources/wordmap.en_US</file>
+        <file>resources/linux.svg</file>
+        <file>resources/screenshot.svg</file>
+        <file>resources/cut.svg</file>
+        <file>resources/copy.svg</file>
+        <file>resources/paste.svg</file>
+        <file>resources/hide-kbd.png</file>
+        <file>resources/en_US.keymap</file>
+        <file>resources/en_US_mobile.keymap</file>        
+    </qresource>
+</RCC>
